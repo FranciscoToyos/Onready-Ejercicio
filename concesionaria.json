@@ -1,32 +1,28 @@
-   [
+{
+    "autos" :[
     {
-        "Marca": "Peugeot",
-        "Modelo": "206",
-        "Puertas": "4",
-        "Precio": "200.000,00"
+        "marca": "Peugeot",
+        "modelo": "206",
+        "puertas": "4",
+        "precio": "200.000,00"
     },
-
     {
-        "Marca": "Honda",
-        "Modelo": "Titan",
-        "Cilindrada": "125c",
-        "Precio": "60.000,00"
+        "marca": "Honda",
+        "modelo": "Titan",
+        "cilindrada": "125c",
+        "precio": "60.000,00"
     },
-
-
     {
-        "Marca": "Peugeot",
-        "Modelo": "208",
-        "Puertas": "5",
-        "Precio": "250.000,00"
+        "marca": "Peugeot",
+        "modelo": "208",
+        "puertas": "5",
+        "precio": "250.000,00"
     },
-
     {
-        "Marca": "Yamaha",
-        "Modelo": "YBR",
-        "Cilindrada": "160c",
-        "Precio": "80.500,50"
+        "marca": "Yamaha",
+        "modelo": "YBR",
+        "cilindrada": "160c",
+        "precio": "80.500,50"
     }
-]
-
-
+    ]
+   }
