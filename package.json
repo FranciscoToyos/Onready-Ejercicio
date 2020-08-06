@@ -1,0 +1,19 @@
+{
+  "name": "onready-ejercicio",
+  "version": "1.0.0",
+  "description": "Ejercicios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranciscoToyos/Onready-Ejercicio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranciscoToyos/Onready-Ejercicio/issues"
+  },
+  "homepage": "https://github.com/FranciscoToyos/Onready-Ejercicio#readme"
+}
